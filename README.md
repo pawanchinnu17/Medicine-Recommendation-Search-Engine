@@ -1,4 +1,4 @@
-# 💊 Intelligent Medicine Recommendation Engine
+# 💊 Intelligent Medicine Recommendation Search Engine
 
 This project brings to life an intelligent, web-based search engine that acts as a smart pharmacist's assistant. It moves beyond simple keyword matching to provide users with **personalized and relevant medicine recommendations**.  
 
@@ -91,7 +91,7 @@ MongoDB was chosen over SQL databases like MySQL because of its **flexible docum
 
 ---
 
-###🎯 Summary
+## 🎯 Summary
 
 The Intelligent Medicine Recommendation Engine is more than a search tool—it’s a personalized pharmacist assistant powered by:
 
