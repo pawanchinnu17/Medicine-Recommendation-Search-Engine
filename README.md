@@ -2,7 +2,7 @@
 
 This project brings to life an intelligent, web-based search engine that acts as a smart pharmacist's assistant. It moves beyond simple keyword matching to provide users with **personalized and relevant medicine recommendations**.  
 
-The core mission is to create a system that understands a user's needs—whether they're searching for a specific product, describing a symptom like `"headache"`, or simply looking for a reminder of what they usually buy.
+The core mission is to create a system that understands a user's needs—whether they're searching for a specific product, describing a symptom like `"acidity"`, or simply looking for a reminder of what they usually buy.
 
 The result is a fully functional **web application** with a clean, interactive interface that showcases a **sophisticated, multi-layered recommendation logic**, all powered by a robust and flexible database backend.
 
