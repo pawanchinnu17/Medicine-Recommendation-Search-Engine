@@ -57,7 +57,8 @@ This **persona-driven approach** ensures the data is **clean, logical, and reali
 
 1. **Symptom-Based Search**  
    - Searching `"fever"` returns relevant medicines from the *Analgesic* category using the built-in symptom dictionary.  
-   *(Insert screenshot here)*  
+   <img width="1765" height="805" alt="image" src="https://github.com/user-attachments/assets/141c1da6-47e3-46c1-969b-b9f2b7d9d92f" />
+
 
 2. **Personalized Recommendations (Empty Search)**  
    - If the search bar is empty, the engine defaults to **personalized mode**, suggesting medicines based on the user’s past purchases.  
