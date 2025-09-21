@@ -1,0 +1,32 @@
+_id,name,composition,category,price
+med_001,Crocin Advance,Paracetamol,Analgesic,470.3
+med_002,Dolo 650,Paracetamol,Analgesic,259.96
+med_003,Combiflam,Ibuprofen;Paracetamol,Analgesic,233.81
+med_004,Sumo Tablet,Nimesulide;Paracetamol,Analgesic,179.92
+med_005,Voveran SR,Diclofenac,Analgesic,419.3
+med_006,Cetrizet,Cetirizine,Antihistamine,82.2
+med_007,Allegra 120,Fexofenadine,Antihistamine,146.18
+med_008,Avil 25,Pheniramine,Antihistamine,178.6
+med_009,Benadryl Cough Syrup,Diphenhydramine;Ammonium Chloride,Antitussive/Expectorant,467.96
+med_010,Grilinctus Syrup,Dextromethorphan;Chlorpheniramine,Antitussive/Expectorant,172.43
+med_011,Ascoril LS Syrup,Ambroxol;Levosalbutamol;Guaifenesin,Antitussive/Expectorant,488.2
+med_012,Digene Acidity & Gas Relief Gel,Magnesium Hydroxide;Simethicone;Magnesium Aluminium Silicate,Antacid,294.56
+med_013,Gelusil MPS,Aluminium Hydroxide;Magnesium Hydroxide;Simethicone,Antacid,229.23
+med_014,Eno Fruit Salt,Sodium Bicarbonate;Citric Acid,Antacid,192.08
+med_015,Pan 40,Pantoprazole,Proton Pump Inhibitor,104.93
+med_016,Omez D,Omeprazole;Domperidone,Proton Pump Inhibitor,442.7
+med_017,Rantac 150,Ranitidine,Proton Pump Inhibitor,303.9
+med_018,Glycomet 500 SR,Metformin,Antidiabetic,264.98
+med_019,Janumet 50/500,Sitagliptin;Metformin,Antidiabetic,39.82
+med_020,Amaryl M 1mg,Glimepiride;Metformin,Antidiabetic,170.42
+med_021,Galvus Met 50/500,Vildagliptin;Metformin,Antidiabetic,373.33
+med_022,Amlong 5,Amlodipine,Antihypertensive,256.23
+med_023,Telma 40,Telmisartan,Antihypertensive,369.27
+med_024,Losar 50,Losartan,Antihypertensive,190.05
+med_025,Metolar XR 50,Metoprolol Succinate,Antihypertensive,244.27
+med_026,Azithral 500,Azithromycin,Antibiotic,460.16
+med_027,Augmentin 625 Duo,Amoxicillin;Clavulanic Acid,Antibiotic,151.8
+med_028,Moxikind CV 625,Amoxicillin;Clavulanic Acid,Antibiotic,393.38
+med_029,Atorva 10,Atorvastatin,Statin,168.63
+med_030,Neurobion Forte,Vitamin B Complex,Vitamin,343.76
+med_031,Shelcal 500,Calcium;Vitamin D3,Vitamin,352.22
