@@ -86,12 +86,12 @@ MongoDB was chosen over SQL databases like MySQL because of its **flexible docum
 
 ---
 
-## 🚀 End-to-End Setup Guide
+###🎯 Summary
 
-### ✅ Prerequisites
-- Python **3.8+**  
-- MongoDB **Community Server** (with **MongoDB Compass** for visualization)  
+The Intelligent Medicine Recommendation Engine is more than a search tool—it’s a personalized pharmacist assistant powered by:
 
-### 🔧 Step 1: Set Up the Environment
-```bash
-pip install streamlit pymongo pandas faker
+Symptom mapping
+
+Purchase history
+
+Collaborative filtering
