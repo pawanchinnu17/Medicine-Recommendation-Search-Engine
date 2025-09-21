@@ -120,8 +120,8 @@ MongoDB was chosen over SQL databases like MySQL because of its **flexible docum
 
 The Intelligent Medicine Recommendation Engine is more than a search tool,it’s a personalized pharmacist assistant powered by:
 
-Symptom mapping
+✅ Symptom mapping
 
-Purchase history
+✅ Purchase history
 
-Collaborative filtering
+✅ Collaborative filtering
