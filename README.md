@@ -49,7 +49,8 @@ This **persona-driven approach** ensures the data is **clean, logical, and reali
 | 🎈 | **Streamlit** | Framework for building the interactive web app |
 | 🍃 | **MongoDB** | NoSQL database for flexible user profiles & purchase history |
 | 🐼 | **Pandas** | Efficient data handling and manipulation |
-| 🤡 | **Faker** | Generates realistic synthetic user details |
+| 🍃 | **PyMongo** | Connects Python with MongoDB to insert and query user profiles & purchase histories |
+
 
 ---
 
@@ -57,12 +58,14 @@ This **persona-driven approach** ensures the data is **clean, logical, and reali
 
 1. **Symptom-Based Search**  
    - Searching `"fever"` returns relevant medicines from the *Analgesic* category using the built-in symptom dictionary.  
-   <img width="1765" height="805" alt="image" src="https://github.com/user-attachments/assets/141c1da6-47e3-46c1-969b-b9f2b7d9d92f" />
+   <img width="1812" height="762" alt="image" src="https://github.com/user-attachments/assets/2ea7f4a7-6630-4012-b2ee-0c3b2a877e7b" />
+
 
 
 2. **Personalized Recommendations (Empty Search)**  
    - If the search bar is empty, the engine defaults to **personalized mode**, suggesting medicines based on the user’s past purchases.  
-   *(Insert screenshot here)*  
+   <img width="1775" height="774" alt="image" src="https://github.com/user-attachments/assets/af2fe0f9-2172-4ce8-9a7b-96f59138b613" />
+
 
 3. **Multi-Layered Logic in Action**  
    - A user with a *Digestive* profile searches for `"fever"`.  
@@ -70,7 +73,8 @@ This **persona-driven approach** ensures the data is **clean, logical, and reali
      ✅ Direct matches  
      ✅ Past purchase preferences  
      ✅ Collaborative filtering ("Others with similar taste")  
-   *(Insert screenshot here)*  
+   <img width="1810" height="793" alt="image" src="https://github.com/user-attachments/assets/347250cc-cfaa-448f-b043-8e2c67af3af8" />
+
 
 ---
 
