@@ -44,16 +44,25 @@ We used **Streamlit** to build the user interface.
 
 ---
 
-## 📊 The Foundation: High-Quality, Realistic Data
+### 📊 The Foundation: High-Quality, Realistic Data  
 
-A recommendation engine is only as smart as its data.  
-Since real-world medical data is private, this project uses a **high-quality synthetic dataset** crafted around logical user personas:
+A recommendation engine is only as smart as its data. Since real-world medical data is private, our project's foundation is a **high-quality synthetic dataset** created by the `generate_data.py` script. This script produces two essential files:  
 
-- **🩺 Pain & Cold Persona**: Simulates a typical family, buying painkillers, allergy pills, and cough syrups.  
-- **🍽️ Digestive Persona**: Focused on antacids and digestive wellness products.  
-- **♾️ Chronic Persona**: Represents patients managing long-term conditions like diabetes or hypertension.  
+#### 1️⃣ `medicines.csv` – The Pharmacy Catalog  
+This file acts as our **complete list of available medicines**. Each row is a unique product with details like:  
+- **Name** → The brand name (e.g., *Crocin Advance*)  
+- **Composition** → The active ingredients (e.g., *Paracetamol*)  
+- **Category** → The medical classification (e.g., *Analgesic*)  
 
-This **persona-driven approach** ensures the data is **clean, logical, and realistic**, which makes the engine’s recommendations more accurate.
+#### 2️⃣ `users.json` – The Customer Profiles  
+This file contains the **detailed profiles of users**.  
+The key to our engine's accuracy lies in the `purchase_history` for each user, crafted around logical user personas:  
+
+- **🩺 Pain & Cold Persona** → Users with purchase histories full of **painkillers, allergy pills, and cough syrups**.  
+- **🍽️ Digestive Persona** → Users focused on **antacids and digestive wellness products**.  
+- **♾️ Chronic Persona** → Users regularly buying medicines for **long-term conditions** like diabetes or hypertension.  
+
+✅ This **persona-driven approach** ensures the data is **clean, logical, and realistic**, which is the secret to making the engine’s recommendations feel accurate and genuinely helpful.  
 
 ---
 
